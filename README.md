@@ -25,7 +25,7 @@ $$\log(\text{LandValue}_{it}) = \alpha_i + \lambda_t + \beta \cdot \text{TaxRate
 * Standard errors are **clustered at the district level** to account for serial correlation.
 
 ## 📈 Key Findings
-
+![Estimation Results](coefficient_plot.png)
 * **Capitalization Effect:** Consistent with economic theory, changes in the real estate transfer tax rate exhibit a negative and statistically significant effect on local land values.
 * **Robustness:** Results remain robust after controlling for demographic shifts and regional labor market dynamics.
 
